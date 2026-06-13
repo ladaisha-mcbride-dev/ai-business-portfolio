@@ -1,8 +1,8 @@
 # AI Business Portfolio
 
-Hi, I'm Dystany. I am a Game Programming & Development student and the founder of Lavishly Wrapped.
+Hi, I'm LaDaisha, a Computer Science and Cybersecurity student and the founder of Lavishly Wrapped.
 
-This portfolio shows how I use AI tools, creative technology, and business workflows to help small brands save time, organize ideas, and create better content.
+This portfolio shows how I use AI tools, creative technology, and business workflows to support small brands, product-based businesses, and creative entrepreneurs. My work connects my school background in technology and cybersecurity with real business needs like branding, content creation, customer communication, and workflow organization.
 
 ## What This Portfolio Shows
 
@@ -16,7 +16,7 @@ This portfolio shows how I use AI tools, creative technology, and business workf
 
 ## Current Focus
 
-I am building practical AI projects that can support small businesses, creators, and product-based brands. My goal is to use AI in a way that is clear, useful, and business-focused.
+I am building practical AI projects that connect creative technology, business development, Computer Science, and Cybersecurity. My goal is to use AI in a way that helps small businesses save time, organize their ideas, protect their digital presence, and create stronger customer-facing content.
 
 ## Featured Projects Coming Soon
 
