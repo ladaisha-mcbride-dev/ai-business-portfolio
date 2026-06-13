@@ -2,7 +2,7 @@
 
 Hi, I'm LaDaisha, a Computer Science and Cybersecurity student and the founder of Lavishly Wrapped.
 
-This portfolio shows how I use AI tools, creative technology, and business workflows to support small brands, product-based businesses, and creative entrepreneurs. My work connects my school background in technology and cybersecurity with real business needs like branding, content creation, customer communication, and workflow organization.
+This portfolio shows how I use AI tools, creative technology, and business workflows to support small brands, product-based businesses, and creative entrepreneurs. My work connects my background in Computer Science and Cybersecurity with real business needs like branding, content creation, customer communication, and workflow organization.
 
 ## What This Portfolio Shows
 
